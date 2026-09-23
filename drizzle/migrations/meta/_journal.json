@@ -8,6 +8,13 @@
       "when": 1790174596505,
       "tag": "0000_stale_shockwave",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1790185519840,
+      "tag": "0001_glossy_tarantula",
+      "breakpoints": true
     }
   ]
 }
