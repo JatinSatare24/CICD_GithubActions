@@ -29,6 +29,13 @@
       "when": 1790187477377,
       "tag": "0003_freezing_smiling_tiger",
       "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1790191917362,
+      "tag": "0004_dear_boomerang",
+      "breakpoints": true
     }
   ]
 }
